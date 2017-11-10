@@ -1,4 +1,4 @@
-FROM cjkas/postman-widfly-mysql
+FROM cjkas/maven-oracle-jdk:jdk8
 
 RUN apt-get update
 
